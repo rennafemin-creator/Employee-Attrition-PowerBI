@@ -39,20 +39,6 @@ Developed an interactive Power BI dashboard to analyze employee attrition trends
 - Employee Performance Rating
 - Work Mode Distribution
 
-## Dashboard Screenshots
-
-### Overview Dashboard
-
-![Overview Dashboard](screenshots/overview_dashboard.png)
-
-### Attrition Analysis
-
-![Attrition Analysis](screenshots/attrition_analysis.png)
-
-### Employee Insights
-
-![Employee Insights](screenshots/employee_insights.png)
-
 ## Key Insights
 
 - Identified departments with the highest employee concentration.
